@@ -1,2 +1,2 @@
 # object-detection-with-azure
-object detection with azure
+Microsoft 2-task 
